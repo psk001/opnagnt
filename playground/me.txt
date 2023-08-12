@@ -1,5 +1,0 @@
-{{#user}}
-My name is Pushpak Prateek.
-Here are my skills : JavaScript, NodeJS, ExpressJs, RactJs . 
-My email id is puspak9208@gmail.com.
-{{/user}}
